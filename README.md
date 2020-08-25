@@ -1,2 +1,1 @@
-# test
-a test repo, for me to be familiar with GIT
+This is a starter template for [Learn Next.js](https://nextjs.org/learn).
